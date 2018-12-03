@@ -3,7 +3,9 @@
 #### 一款基于jq的日历插件 引入vue项目 
 #### 支持农历选择器 选择后可以通过按下测试按钮在控制台中打印转换后的数字 如果不需要可以取消。
 
+`![pc端浏览](https://raw.githubusercontent.com/czkm/img-folder/master/js-lunar-calendar1.png)`
 
+`![移动端浏览](https://raw.githubusercontent.com/czkm/img-folder/master/js-lunar-calendar2.png)`
 > A Vue.js project
 
 ## Build Setup
