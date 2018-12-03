@@ -8,7 +8,6 @@
 
 ##### pc端浏览
 <div align=center><img src="https://raw.githubusercontent.com/czkm/img-folder/master/js-lunar-calendar1.png"/ ></div>
-![pc端浏览](https://raw.githubusercontent.com/czkm/img-folder/master/js-lunar-calendar1.png)
 
 
 > A Vue.js project
