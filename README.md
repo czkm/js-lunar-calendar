@@ -6,6 +6,7 @@
 ![pc端浏览](https://raw.githubusercontent.com/czkm/img-folder/master/js-lunar-calendar1.png)
 
 <div align=center>![移动端浏览](https://raw.githubusercontent.com/czkm/img-folder/master/js-lunar-calendar2.png)</div>
+<div align=center><img src="https://raw.githubusercontent.com/czkm/img-folder/master/js-lunar-calendar2.png"/></div>
 
 > A Vue.js project
 
