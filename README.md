@@ -5,7 +5,7 @@
 
 ![pc端浏览](https://raw.githubusercontent.com/czkm/img-folder/master/js-lunar-calendar1.png)
 
-![移动端浏览](https://raw.githubusercontent.com/czkm/img-folder/master/js-lunar-calendar2.png)
+<div align=center>![移动端浏览](https://raw.githubusercontent.com/czkm/img-folder/master/js-lunar-calendar2.png)
 > A Vue.js project
 
 ## Build Setup
