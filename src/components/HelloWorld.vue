@@ -11,7 +11,6 @@
 
 <script>
 /* eslint-disable */ 
-
 import lCalendar from '../libs/js/lCalendar.js'
 export default {
   name: 'HelloWorld',
@@ -192,9 +191,6 @@ export default {
 .calendar{
   text-align: center;
   margin: 0 auto;
-}
-.calendarmain{
-  margin-top: 50px
 }
 button {
   width: 200px;
